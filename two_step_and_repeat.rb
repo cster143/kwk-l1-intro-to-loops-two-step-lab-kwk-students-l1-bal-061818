@@ -63,8 +63,7 @@ def break_dance
         puts "Right"
       end
       if steps=6
-        break
-      end
+      break
     end
   end
 end
